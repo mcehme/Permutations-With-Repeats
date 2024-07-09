@@ -4,6 +4,10 @@ A simple project for a math Prof. who needed all permutations of a list with rep
 ## Option 1: EXE
 Download and use the EXE (on Windows platforms).
 
+EXE is found in ./dist
+
+Note: Run installer script on target platform to create executable for non-Windows platforms.
+
 ## Option 2: Command line
 Run the program as a command line utility. 
 
